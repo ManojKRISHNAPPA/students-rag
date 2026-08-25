@@ -2,6 +2,15 @@
 
 Architecture: ingestion (load -> split) -> embed -> Chroma vector store ->
 retrieval (with confidence score) -> augmented generation via OpenAI LLM.
+
+Teaching note: Streamlit re-runs this ENTIRE script top-to-bottom every time
+the user interacts with a widget (types text, clicks a button, moves a
+slider). Two tools keep that from being wasteful/losing data:
+  - st.session_state: a dict that survives across re-runs, used here to keep
+    the (potentially large, slow-to-build) vector store in memory.
+  - @st.cache_resource: caches the *return value* of a function across
+    re-runs (and across users), keyed by its arguments — so we don't reload
+    the vector store from disk on every single click.
 """
 import streamlit as st
 
@@ -24,6 +33,10 @@ with st.sidebar:
     index_ready = vector_store_exists()
     st.write("Status:", "✅ Indexed" if index_ready else "⚠️ Not built yet")
 
+    # This button triggers the full offline pipeline: STAGE 1 ingestion
+    # (ingest()) then STAGE 2 embedding/storage (get_or_build_vector_store()).
+    # force_rebuild=True guarantees we always re-embed with the latest code
+    # instead of silently reusing a stale on-disk index.
     if st.button("Build / Rebuild Index", use_container_width=True, disabled=not openai_api_key):
         with st.spinner("Loading PDFs and splitting into chunks..."):
             chunks = ingest()
@@ -32,7 +45,7 @@ with st.sidebar:
                 openai_api_key=openai_api_key, documents=chunks, force_rebuild=True
             )
         st.success(f"Index built from {len(chunks)} chunks.")
-        st.rerun()
+        st.rerun()  # re-run the script so the UI reflects the new "Indexed" status
     if not openai_api_key:
         st.caption("Enter your OpenAI API key to enable indexing.")
 
@@ -41,6 +54,8 @@ with st.sidebar:
 
 @st.cache_resource(show_spinner="Loading vector store...")
 def _load_vector_store(openai_api_key: str):
+    """Cached loader so re-opening the existing Chroma index only happens once
+    per (openai_api_key) value, instead of on every Streamlit re-run."""
     return get_or_build_vector_store(openai_api_key=openai_api_key)
 
 
@@ -62,6 +77,7 @@ if ask_clicked:
     elif not question.strip():
         st.warning("Please enter a question.")
     else:
+        # This one call runs the full online RAG flow: retrieve -> augment -> generate.
         with st.spinner("Retrieving relevant chunks and generating answer..."):
             result = answer_question(
                 vector_store=st.session_state.vector_store,
@@ -77,6 +93,8 @@ if ask_clicked:
         if result.confidence < config.CONFIDENCE_THRESHOLD:
             st.warning("Low confidence: the retrieved context may not fully answer this question.")
 
+        # Showing the raw retrieved chunks is good practice for RAG apps: it lets
+        # a student/teacher verify *why* the model answered the way it did.
         if result.chunks:
             with st.expander("Retrieved context (sources)"):
                 for i, chunk in enumerate(result.chunks, start=1):
