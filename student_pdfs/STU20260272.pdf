@@ -1,0 +1,88 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 979 >>
+stream
+BT
+/F1 10 Tf
+48 792 Td
+13 TL
+(SYNTHETIC DATA - FOR RAG TESTING ONLY) Tj
+T*
+(DOCUMENT TYPE: STUDENT PROFILE) Tj
+T*
+(Student ID: STU20260272) Tj
+T*
+(Full Name: Sara Desai) Tj
+T*
+(Date of Birth: 2003-12-03) Tj
+T*
+(Email: stu20260272@students.synthetic-university.example) Tj
+T*
+(Phone: +1-202-555-3272) Tj
+T*
+(Department: Mathematics \(MATH\)) Tj
+T*
+(Program: Bachelor Degree) Tj
+T*
+(Academic Year: 1) Tj
+T*
+(Semester: 2) Tj
+T*
+(GPA: 7.5) Tj
+T*
+(Credits Completed: 33) Tj
+T*
+(Attendance: 76%) Tj
+T*
+(Enrollment Status: Active) Tj
+T*
+(Faculty Advisor: Riya Dutta \(FAC20260048\)) Tj
+T*
+(Campus: Technology Campus) Tj
+T*
+(Scholarship: None) Tj
+T*
+(Current Courses and Grades: MATH366 \(B+\), MATH419 \(C\), MATH472 \(A\), MATH125 \(B\)) Tj
+T*
+(Academic Project: Synthetic Applied Mathematics Project 0272) Tj
+T*
+() Tj
+T*
+(PROFILE SUMMARY) Tj
+T*
+(Sara Desai is a year-1 Bachelor Degree student in Mathematics. The student has a GPA of 7.5) Tj
+T*
+(  and is advised by Riya Dutta.) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Title (Student Profile - STU20260272) /Author (Synthetic RAG Dataset Generator) /Subject (Entirely synthetic demonstration data) >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000247 00000 n 
+0000000317 00000 n 
+0000001347 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R /Info 6 0 R >>
+startxref
+1498
+%%EOF

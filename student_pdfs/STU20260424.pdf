@@ -1,0 +1,88 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 1000 >>
+stream
+BT
+/F1 10 Tf
+48 792 Td
+13 TL
+(SYNTHETIC DATA - FOR RAG TESTING ONLY) Tj
+T*
+(DOCUMENT TYPE: STUDENT PROFILE) Tj
+T*
+(Student ID: STU20260424) Tj
+T*
+(Full Name: Kavya Chandra) Tj
+T*
+(Date of Birth: 2005-12-18) Tj
+T*
+(Email: stu20260424@students.synthetic-university.example) Tj
+T*
+(Phone: +1-202-555-3424) Tj
+T*
+(Department: Computer Science \(CSE\)) Tj
+T*
+(Program: Bachelor of Technology) Tj
+T*
+(Academic Year: 1) Tj
+T*
+(Semester: 2) Tj
+T*
+(GPA: 8.0) Tj
+T*
+(Credits Completed: 36) Tj
+T*
+(Attendance: 84%) Tj
+T*
+(Enrollment Status: Active) Tj
+T*
+(Faculty Advisor: Amara Reddy \(FAC20260681\)) Tj
+T*
+(Campus: Central Campus) Tj
+T*
+(Scholarship: None) Tj
+T*
+(Current Courses and Grades: CSE438 \(C\), CSE491 \(A\), CSE144 \(B\), CSE197 \(A+\)) Tj
+T*
+(Academic Project: Synthetic Machine Learning Project 0424) Tj
+T*
+() Tj
+T*
+(PROFILE SUMMARY) Tj
+T*
+(Kavya Chandra is a year-1 Bachelor of Technology student in Computer Science. The student has) Tj
+T*
+(  a GPA of 8.0 and is advised by Amara Reddy.) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Title (Student Profile - STU20260424) /Author (Synthetic RAG Dataset Generator) /Subject (Entirely synthetic demonstration data) >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000247 00000 n 
+0000000317 00000 n 
+0000001369 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R /Info 6 0 R >>
+startxref
+1520
+%%EOF

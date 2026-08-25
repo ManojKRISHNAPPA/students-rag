@@ -1,0 +1,88 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 1006 >>
+stream
+BT
+/F1 10 Tf
+48 792 Td
+13 TL
+(SYNTHETIC DATA - FOR RAG TESTING ONLY) Tj
+T*
+(DOCUMENT TYPE: STUDENT PROFILE) Tj
+T*
+(Student ID: STU20260780) Tj
+T*
+(Full Name: Vihaan Joshi) Tj
+T*
+(Date of Birth: 2006-09-12) Tj
+T*
+(Email: stu20260780@students.synthetic-university.example) Tj
+T*
+(Phone: +1-202-555-3780) Tj
+T*
+(Department: Electrical Engineering \(EEE\)) Tj
+T*
+(Program: Bachelor of Technology) Tj
+T*
+(Academic Year: 1) Tj
+T*
+(Semester: 2) Tj
+T*
+(GPA: 8.25) Tj
+T*
+(Credits Completed: 37) Tj
+T*
+(Attendance: 88%) Tj
+T*
+(Enrollment Status: Active) Tj
+T*
+(Faculty Advisor: Aditi Jain \(FAC20260604\)) Tj
+T*
+(Campus: North Campus) Tj
+T*
+(Scholarship: None) Tj
+T*
+(Current Courses and Grades: EEE354 \(A+\), EEE407 \(B+\), EEE460 \(C\), EEE113 \(A\)) Tj
+T*
+(Academic Project: Synthetic Power Systems Project 0780) Tj
+T*
+() Tj
+T*
+(PROFILE SUMMARY) Tj
+T*
+(Vihaan Joshi is a year-1 Bachelor of Technology student in Electrical Engineering. The student) Tj
+T*
+(  has a GPA of 8.25 and is advised by Aditi Jain.) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Title (Student Profile - STU20260780) /Author (Synthetic RAG Dataset Generator) /Subject (Entirely synthetic demonstration data) >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000247 00000 n 
+0000000317 00000 n 
+0000001375 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R /Info 6 0 R >>
+startxref
+1526
+%%EOF

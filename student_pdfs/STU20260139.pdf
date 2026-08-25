@@ -1,0 +1,88 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 1032 >>
+stream
+BT
+/F1 10 Tf
+48 792 Td
+13 TL
+(SYNTHETIC DATA - FOR RAG TESTING ONLY) Tj
+T*
+(DOCUMENT TYPE: STUDENT PROFILE) Tj
+T*
+(Student ID: STU20260139) Tj
+T*
+(Full Name: Pranav Roy) Tj
+T*
+(Date of Birth: 2003-11-19) Tj
+T*
+(Email: stu20260139@students.synthetic-university.example) Tj
+T*
+(Phone: +1-202-555-3139) Tj
+T*
+(Department: Electrical Engineering \(EEE\)) Tj
+T*
+(Program: Bachelor of Technology) Tj
+T*
+(Academic Year: 4) Tj
+T*
+(Semester: 7) Tj
+T*
+(GPA: 8.0) Tj
+T*
+(Credits Completed: 132) Tj
+T*
+(Attendance: 83%) Tj
+T*
+(Enrollment Status: Academic Leave) Tj
+T*
+(Faculty Advisor: Nikhil Nair \(FAC20260734\)) Tj
+T*
+(Campus: Central Campus) Tj
+T*
+(Scholarship: Sports Scholarship) Tj
+T*
+(Current Courses and Grades: EEE288 \(C\), EEE341 \(A\), EEE394 \(B\), EEE447 \(A+\)) Tj
+T*
+(Academic Project: Synthetic Electrical Machines Project 0139) Tj
+T*
+() Tj
+T*
+(PROFILE SUMMARY) Tj
+T*
+(Pranav Roy is a year-4 Bachelor of Technology student in Electrical Engineering. The student) Tj
+T*
+(  has a GPA of 8.0 and is advised by Nikhil Nair.) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Title (Student Profile - STU20260139) /Author (Synthetic RAG Dataset Generator) /Subject (Entirely synthetic demonstration data) >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000247 00000 n 
+0000000317 00000 n 
+0000001401 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R /Info 6 0 R >>
+startxref
+1552
+%%EOF

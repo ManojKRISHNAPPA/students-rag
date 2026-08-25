@@ -1,0 +1,88 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 979 >>
+stream
+BT
+/F1 10 Tf
+48 792 Td
+13 TL
+(SYNTHETIC DATA - FOR RAG TESTING ONLY) Tj
+T*
+(DOCUMENT TYPE: STUDENT PROFILE) Tj
+T*
+(Student ID: STU20260712) Tj
+T*
+(Full Name: Yash Nair) Tj
+T*
+(Date of Birth: 2002-06-21) Tj
+T*
+(Email: stu20260712@students.synthetic-university.example) Tj
+T*
+(Phone: +1-202-555-3712) Tj
+T*
+(Department: Business Administration \(BBA\)) Tj
+T*
+(Program: Bachelor Degree) Tj
+T*
+(Academic Year: 1) Tj
+T*
+(Semester: 2) Tj
+T*
+(GPA: 7.5) Tj
+T*
+(Credits Completed: 34) Tj
+T*
+(Attendance: 80%) Tj
+T*
+(Enrollment Status: Active) Tj
+T*
+(Faculty Advisor: Aarav Das \(FAC20260847\)) Tj
+T*
+(Campus: Central Campus) Tj
+T*
+(Scholarship: None) Tj
+T*
+(Current Courses and Grades: BBA406 \(B+\), BBA459 \(C\), BBA112 \(A\), BBA165 \(B\)) Tj
+T*
+(Academic Project: Synthetic Finance Project 0712) Tj
+T*
+() Tj
+T*
+(PROFILE SUMMARY) Tj
+T*
+(Yash Nair is a year-1 Bachelor Degree student in Business Administration. The student has a) Tj
+T*
+(  GPA of 7.5 and is advised by Aarav Das.) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Title (Student Profile - STU20260712) /Author (Synthetic RAG Dataset Generator) /Subject (Entirely synthetic demonstration data) >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000247 00000 n 
+0000000317 00000 n 
+0000001347 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R /Info 6 0 R >>
+startxref
+1498
+%%EOF

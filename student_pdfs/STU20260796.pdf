@@ -1,0 +1,88 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 1020 >>
+stream
+BT
+/F1 10 Tf
+48 792 Td
+13 TL
+(SYNTHETIC DATA - FOR RAG TESTING ONLY) Tj
+T*
+(DOCUMENT TYPE: STUDENT PROFILE) Tj
+T*
+(Student ID: STU20260796) Tj
+T*
+(Full Name: Priya Reddy) Tj
+T*
+(Date of Birth: 2007-04-13) Tj
+T*
+(Email: stu20260796@students.synthetic-university.example) Tj
+T*
+(Phone: +1-202-555-3796) Tj
+T*
+(Department: Electronics and Communication \(ECE\)) Tj
+T*
+(Program: Bachelor of Technology) Tj
+T*
+(Academic Year: 1) Tj
+T*
+(Semester: 2) Tj
+T*
+(GPA: 8.5) Tj
+T*
+(Credits Completed: 33) Tj
+T*
+(Attendance: 80%) Tj
+T*
+(Enrollment Status: Active) Tj
+T*
+(Faculty Advisor: Zara Gill \(FAC20260723\)) Tj
+T*
+(Campus: Central Campus) Tj
+T*
+(Scholarship: None) Tj
+T*
+(Current Courses and Grades: ECE130 \(A\), ECE183 \(B\), ECE236 \(A+\), ECE289 \(B+\)) Tj
+T*
+(Academic Project: Synthetic Signal Processing Project 0796) Tj
+T*
+() Tj
+T*
+(PROFILE SUMMARY) Tj
+T*
+(Priya Reddy is a year-1 Bachelor of Technology student in Electronics and Communication. The) Tj
+T*
+(  student has a GPA of 8.5 and is advised by Zara Gill.) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Title (Student Profile - STU20260796) /Author (Synthetic RAG Dataset Generator) /Subject (Entirely synthetic demonstration data) >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000247 00000 n 
+0000000317 00000 n 
+0000001389 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R /Info 6 0 R >>
+startxref
+1540
+%%EOF

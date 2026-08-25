@@ -1,0 +1,88 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 956 >>
+stream
+BT
+/F1 10 Tf
+48 792 Td
+13 TL
+(SYNTHETIC DATA - FOR RAG TESTING ONLY) Tj
+T*
+(DOCUMENT TYPE: STUDENT PROFILE) Tj
+T*
+(Student ID: STU20260588) Tj
+T*
+(Full Name: Varun Roy) Tj
+T*
+(Date of Birth: 2006-09-11) Tj
+T*
+(Email: stu20260588@students.synthetic-university.example) Tj
+T*
+(Phone: +1-202-555-3588) Tj
+T*
+(Department: English \(ENG\)) Tj
+T*
+(Program: Bachelor Degree) Tj
+T*
+(Academic Year: 1) Tj
+T*
+(Semester: 2) Tj
+T*
+(GPA: 7.75) Tj
+T*
+(Credits Completed: 39) Tj
+T*
+(Attendance: 72%) Tj
+T*
+(Enrollment Status: Active) Tj
+T*
+(Faculty Advisor: Ishaan Iyer \(FAC20260170\)) Tj
+T*
+(Campus: North Campus) Tj
+T*
+(Scholarship: None) Tj
+T*
+(Current Courses and Grades: ENG242 \(B\), ENG295 \(A+\), ENG348 \(B+\), ENG401 \(C\)) Tj
+T*
+(Academic Project: Synthetic Linguistics Project 0588) Tj
+T*
+() Tj
+T*
+(PROFILE SUMMARY) Tj
+T*
+(Varun Roy is a year-1 Bachelor Degree student in English. The student has a GPA of 7.75 and is) Tj
+T*
+(  advised by Ishaan Iyer.) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Title (Student Profile - STU20260588) /Author (Synthetic RAG Dataset Generator) /Subject (Entirely synthetic demonstration data) >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000247 00000 n 
+0000000317 00000 n 
+0000001324 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R /Info 6 0 R >>
+startxref
+1475
+%%EOF

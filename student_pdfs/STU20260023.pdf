@@ -1,0 +1,88 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 1028 >>
+stream
+BT
+/F1 10 Tf
+48 792 Td
+13 TL
+(SYNTHETIC DATA - FOR RAG TESTING ONLY) Tj
+T*
+(DOCUMENT TYPE: STUDENT PROFILE) Tj
+T*
+(Student ID: STU20260023) Tj
+T*
+(Full Name: Kabir Basu) Tj
+T*
+(Date of Birth: 2004-11-25) Tj
+T*
+(Email: stu20260023@students.synthetic-university.example) Tj
+T*
+(Phone: +1-202-555-3023) Tj
+T*
+(Department: Computer Science \(CSE\)) Tj
+T*
+(Program: Bachelor of Technology) Tj
+T*
+(Academic Year: 4) Tj
+T*
+(Semester: 7) Tj
+T*
+(GPA: 7.75) Tj
+T*
+(Credits Completed: 139) Tj
+T*
+(Attendance: 99%) Tj
+T*
+(Enrollment Status: Academic Leave) Tj
+T*
+(Faculty Advisor: Riya Chandra \(FAC20260611\)) Tj
+T*
+(Campus: Technology Campus) Tj
+T*
+(Scholarship: Sports Scholarship) Tj
+T*
+(Current Courses and Grades: CSE212 \(B\), CSE265 \(A+\), CSE318 \(B+\), CSE371 \(C\)) Tj
+T*
+(Academic Project: Synthetic Distributed Systems Project 0023) Tj
+T*
+() Tj
+T*
+(PROFILE SUMMARY) Tj
+T*
+(Kabir Basu is a year-4 Bachelor of Technology student in Computer Science. The student has a) Tj
+T*
+(  GPA of 7.75 and is advised by Riya Chandra.) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Title (Student Profile - STU20260023) /Author (Synthetic RAG Dataset Generator) /Subject (Entirely synthetic demonstration data) >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000247 00000 n 
+0000000317 00000 n 
+0000001397 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R /Info 6 0 R >>
+startxref
+1548
+%%EOF

@@ -1,0 +1,88 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 1024 >>
+stream
+BT
+/F1 10 Tf
+48 792 Td
+13 TL
+(SYNTHETIC DATA - FOR RAG TESTING ONLY) Tj
+T*
+(DOCUMENT TYPE: STUDENT PROFILE) Tj
+T*
+(Student ID: STU20260191) Tj
+T*
+(Full Name: Sara Gill) Tj
+T*
+(Date of Birth: 2007-07-12) Tj
+T*
+(Email: stu20260191@students.synthetic-university.example) Tj
+T*
+(Phone: +1-202-555-3191) Tj
+T*
+(Department: Information Technology \(IT\)) Tj
+T*
+(Program: Bachelor of Technology) Tj
+T*
+(Academic Year: 4) Tj
+T*
+(Semester: 7) Tj
+T*
+(GPA: 8.5) Tj
+T*
+(Credits Completed: 138) Tj
+T*
+(Attendance: 99%) Tj
+T*
+(Enrollment Status: Academic Leave) Tj
+T*
+(Faculty Advisor: Ravi Verma \(FAC20260372\)) Tj
+T*
+(Campus: Technology Campus) Tj
+T*
+(Scholarship: Sports Scholarship) Tj
+T*
+(Current Courses and Grades: IT460 \(A\), IT113 \(B\), IT166 \(A+\), IT219 \(B+\)) Tj
+T*
+(Academic Project: Synthetic Network Security Project 0191) Tj
+T*
+() Tj
+T*
+(PROFILE SUMMARY) Tj
+T*
+(Sara Gill is a year-4 Bachelor of Technology student in Information Technology. The student) Tj
+T*
+(  has a GPA of 8.5 and is advised by Ravi Verma.) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Title (Student Profile - STU20260191) /Author (Synthetic RAG Dataset Generator) /Subject (Entirely synthetic demonstration data) >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000247 00000 n 
+0000000317 00000 n 
+0000001393 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R /Info 6 0 R >>
+startxref
+1544
+%%EOF

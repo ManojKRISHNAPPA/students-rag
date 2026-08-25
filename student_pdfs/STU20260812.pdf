@@ -1,0 +1,88 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 1003 >>
+stream
+BT
+/F1 10 Tf
+48 792 Td
+13 TL
+(SYNTHETIC DATA - FOR RAG TESTING ONLY) Tj
+T*
+(DOCUMENT TYPE: STUDENT PROFILE) Tj
+T*
+(Student ID: STU20260812) Tj
+T*
+(Full Name: Kabir Basu) Tj
+T*
+(Date of Birth: 2007-11-12) Tj
+T*
+(Email: stu20260812@students.synthetic-university.example) Tj
+T*
+(Phone: +1-202-555-3812) Tj
+T*
+(Department: Information Technology \(IT\)) Tj
+T*
+(Program: Bachelor of Technology) Tj
+T*
+(Academic Year: 1) Tj
+T*
+(Semester: 2) Tj
+T*
+(GPA: 7.5) Tj
+T*
+(Credits Completed: 32) Tj
+T*
+(Attendance: 72%) Tj
+T*
+(Enrollment Status: Active) Tj
+T*
+(Faculty Advisor: Varun Desai \(FAC20260842\)) Tj
+T*
+(Campus: Technology Campus) Tj
+T*
+(Scholarship: None) Tj
+T*
+(Current Courses and Grades: IT306 \(B+\), IT359 \(C\), IT412 \(A\), IT465 \(B\)) Tj
+T*
+(Academic Project: Synthetic Cloud Computing Project 0812) Tj
+T*
+() Tj
+T*
+(PROFILE SUMMARY) Tj
+T*
+(Kabir Basu is a year-1 Bachelor of Technology student in Information Technology. The student) Tj
+T*
+(  has a GPA of 7.5 and is advised by Varun Desai.) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Title (Student Profile - STU20260812) /Author (Synthetic RAG Dataset Generator) /Subject (Entirely synthetic demonstration data) >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000247 00000 n 
+0000000317 00000 n 
+0000001372 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R /Info 6 0 R >>
+startxref
+1523
+%%EOF

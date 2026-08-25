@@ -1,0 +1,88 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 1020 >>
+stream
+BT
+/F1 10 Tf
+48 792 Td
+13 TL
+(SYNTHETIC DATA - FOR RAG TESTING ONLY) Tj
+T*
+(DOCUMENT TYPE: STUDENT PROFILE) Tj
+T*
+(Student ID: STU20260310) Tj
+T*
+(Full Name: Riya Desai) Tj
+T*
+(Date of Birth: 2007-12-06) Tj
+T*
+(Email: stu20260310@students.synthetic-university.example) Tj
+T*
+(Phone: +1-202-555-3310) Tj
+T*
+(Department: Electrical Engineering \(EEE\)) Tj
+T*
+(Program: Bachelor of Technology) Tj
+T*
+(Academic Year: 3) Tj
+T*
+(Semester: 6) Tj
+T*
+(GPA: 8.25) Tj
+T*
+(Credits Completed: 113) Tj
+T*
+(Attendance: 78%) Tj
+T*
+(Enrollment Status: Active) Tj
+T*
+(Faculty Advisor: Meera Shah \(FAC20260704\)) Tj
+T*
+(Campus: Central Campus) Tj
+T*
+(Scholarship: Need-Based Grant) Tj
+T*
+(Current Courses and Grades: EEE132 \(A+\), EEE185 \(B+\), EEE238 \(C\), EEE291 \(A\)) Tj
+T*
+(Academic Project: Synthetic Renewable Energy Project 0310) Tj
+T*
+() Tj
+T*
+(PROFILE SUMMARY) Tj
+T*
+(Riya Desai is a year-3 Bachelor of Technology student in Electrical Engineering. The student) Tj
+T*
+(  has a GPA of 8.25 and is advised by Meera Shah.) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Title (Student Profile - STU20260310) /Author (Synthetic RAG Dataset Generator) /Subject (Entirely synthetic demonstration data) >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000247 00000 n 
+0000000317 00000 n 
+0000001389 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R /Info 6 0 R >>
+startxref
+1540
+%%EOF

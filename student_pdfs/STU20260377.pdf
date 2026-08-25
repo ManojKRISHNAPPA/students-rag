@@ -1,0 +1,88 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 989 >>
+stream
+BT
+/F1 10 Tf
+48 792 Td
+13 TL
+(SYNTHETIC DATA - FOR RAG TESTING ONLY) Tj
+T*
+(DOCUMENT TYPE: STUDENT PROFILE) Tj
+T*
+(Student ID: STU20260377) Tj
+T*
+(Full Name: Kabir Menon) Tj
+T*
+(Date of Birth: 2004-09-08) Tj
+T*
+(Email: stu20260377@students.synthetic-university.example) Tj
+T*
+(Phone: +1-202-555-3377) Tj
+T*
+(Department: Mathematics \(MATH\)) Tj
+T*
+(Program: Bachelor Degree) Tj
+T*
+(Academic Year: 2) Tj
+T*
+(Semester: 3) Tj
+T*
+(GPA: 7.5) Tj
+T*
+(Credits Completed: 53) Tj
+T*
+(Attendance: 97%) Tj
+T*
+(Enrollment Status: Active) Tj
+T*
+(Faculty Advisor: Sameer Desai \(FAC20260398\)) Tj
+T*
+(Campus: Technology Campus) Tj
+T*
+(Scholarship: Merit Scholarship) Tj
+T*
+(Current Courses and Grades: MATH358 \(B+\), MATH411 \(C\), MATH464 \(A\), MATH117 \(B\)) Tj
+T*
+(Academic Project: Synthetic Statistics Project 0377) Tj
+T*
+() Tj
+T*
+(PROFILE SUMMARY) Tj
+T*
+(Kabir Menon is a year-2 Bachelor Degree student in Mathematics. The student has a GPA of 7.5) Tj
+T*
+(  and is advised by Sameer Desai.) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Title (Student Profile - STU20260377) /Author (Synthetic RAG Dataset Generator) /Subject (Entirely synthetic demonstration data) >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000247 00000 n 
+0000000317 00000 n 
+0000001357 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R /Info 6 0 R >>
+startxref
+1508
+%%EOF

@@ -1,0 +1,88 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 1023 >>
+stream
+BT
+/F1 10 Tf
+48 792 Td
+13 TL
+(SYNTHETIC DATA - FOR RAG TESTING ONLY) Tj
+T*
+(DOCUMENT TYPE: STUDENT PROFILE) Tj
+T*
+(Student ID: STU20260547) Tj
+T*
+(Full Name: Esha Menon) Tj
+T*
+(Date of Birth: 2001-04-07) Tj
+T*
+(Email: stu20260547@students.synthetic-university.example) Tj
+T*
+(Phone: +1-202-555-3547) Tj
+T*
+(Department: Mechanical Engineering \(ME\)) Tj
+T*
+(Program: Bachelor of Technology) Tj
+T*
+(Academic Year: 4) Tj
+T*
+(Semester: 7) Tj
+T*
+(GPA: 7.5) Tj
+T*
+(Credits Completed: 138) Tj
+T*
+(Attendance: 75%) Tj
+T*
+(Enrollment Status: Academic Leave) Tj
+T*
+(Faculty Advisor: Priya Menon \(FAC20260295\)) Tj
+T*
+(Campus: Central Campus) Tj
+T*
+(Scholarship: Sports Scholarship) Tj
+T*
+(Current Courses and Grades: ME376 \(B+\), ME429 \(C\), ME482 \(A\), ME135 \(B\)) Tj
+T*
+(Academic Project: Synthetic Fluid Mechanics Project 0547) Tj
+T*
+() Tj
+T*
+(PROFILE SUMMARY) Tj
+T*
+(Esha Menon is a year-4 Bachelor of Technology student in Mechanical Engineering. The student) Tj
+T*
+(  has a GPA of 7.5 and is advised by Priya Menon.) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Title (Student Profile - STU20260547) /Author (Synthetic RAG Dataset Generator) /Subject (Entirely synthetic demonstration data) >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000247 00000 n 
+0000000317 00000 n 
+0000001392 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R /Info 6 0 R >>
+startxref
+1543
+%%EOF

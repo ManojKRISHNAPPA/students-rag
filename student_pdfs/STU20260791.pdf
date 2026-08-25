@@ -1,0 +1,88 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 996 >>
+stream
+BT
+/F1 10 Tf
+48 792 Td
+13 TL
+(SYNTHETIC DATA - FOR RAG TESTING ONLY) Tj
+T*
+(DOCUMENT TYPE: STUDENT PROFILE) Tj
+T*
+(Student ID: STU20260791) Tj
+T*
+(Full Name: Leela Roy) Tj
+T*
+(Date of Birth: 2004-11-29) Tj
+T*
+(Email: stu20260791@students.synthetic-university.example) Tj
+T*
+(Phone: +1-202-555-3791) Tj
+T*
+(Department: Mathematics \(MATH\)) Tj
+T*
+(Program: Bachelor Degree) Tj
+T*
+(Academic Year: 4) Tj
+T*
+(Semester: 7) Tj
+T*
+(GPA: 8.5) Tj
+T*
+(Credits Completed: 133) Tj
+T*
+(Attendance: 79%) Tj
+T*
+(Enrollment Status: Academic Leave) Tj
+T*
+(Faculty Advisor: Aditi Gupta \(FAC20260378\)) Tj
+T*
+(Campus: Technology Campus) Tj
+T*
+(Scholarship: Sports Scholarship) Tj
+T*
+(Current Courses and Grades: MATH260 \(A\), MATH313 \(B\), MATH366 \(A+\), MATH419 \(B+\)) Tj
+T*
+(Academic Project: Synthetic Optimization Project 0791) Tj
+T*
+() Tj
+T*
+(PROFILE SUMMARY) Tj
+T*
+(Leela Roy is a year-4 Bachelor Degree student in Mathematics. The student has a GPA of 8.5 and) Tj
+T*
+(  is advised by Aditi Gupta.) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Title (Student Profile - STU20260791) /Author (Synthetic RAG Dataset Generator) /Subject (Entirely synthetic demonstration data) >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000247 00000 n 
+0000000317 00000 n 
+0000001364 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R /Info 6 0 R >>
+startxref
+1515
+%%EOF

@@ -1,0 +1,88 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 970 >>
+stream
+BT
+/F1 10 Tf
+48 792 Td
+13 TL
+(SYNTHETIC DATA - FOR RAG TESTING ONLY) Tj
+T*
+(DOCUMENT TYPE: STUDENT PROFILE) Tj
+T*
+(Student ID: STU20260486) Tj
+T*
+(Full Name: Zara Mehta) Tj
+T*
+(Date of Birth: 2007-05-08) Tj
+T*
+(Email: stu20260486@students.synthetic-university.example) Tj
+T*
+(Phone: +1-202-555-3486) Tj
+T*
+(Department: English \(ENG\)) Tj
+T*
+(Program: Bachelor Degree) Tj
+T*
+(Academic Year: 3) Tj
+T*
+(Semester: 6) Tj
+T*
+(GPA: 8.5) Tj
+T*
+(Credits Completed: 118) Tj
+T*
+(Attendance: 74%) Tj
+T*
+(Enrollment Status: Active) Tj
+T*
+(Faculty Advisor: Meera Das \(FAC20260030\)) Tj
+T*
+(Campus: North Campus) Tj
+T*
+(Scholarship: Need-Based Grant) Tj
+T*
+(Current Courses and Grades: ENG468 \(A\), ENG121 \(B\), ENG174 \(A+\), ENG227 \(B+\)) Tj
+T*
+(Academic Project: Synthetic Literary Studies Project 0486) Tj
+T*
+() Tj
+T*
+(PROFILE SUMMARY) Tj
+T*
+(Zara Mehta is a year-3 Bachelor Degree student in English. The student has a GPA of 8.5 and is) Tj
+T*
+(  advised by Meera Das.) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Title (Student Profile - STU20260486) /Author (Synthetic RAG Dataset Generator) /Subject (Entirely synthetic demonstration data) >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000247 00000 n 
+0000000317 00000 n 
+0000001338 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R /Info 6 0 R >>
+startxref
+1489
+%%EOF
